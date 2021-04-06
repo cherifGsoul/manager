@@ -1,2 +1,2 @@
 # manager
-Todoist like application in Java
+Todoist like application in Java (WIP)
