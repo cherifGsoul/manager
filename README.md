@@ -1,2 +1,2 @@
 # manager
-Todoist like application in Java (WIP)
+[Todoist](https://todoist.com/) like application in Java (WIP)
