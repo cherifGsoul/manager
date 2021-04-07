@@ -24,6 +24,6 @@ public class TestProjectsService {
         ArrayList<TaskView> actual = this.projectsService.listTasks(projectId);
         ArrayList<TaskView> expected = new ArrayList<>();
         expected.add(new TaskView("TDD in Java", projectId));
-        assertTrue(actual.get(0).equals(expected.get(0)));
+        assertEquals(actual,expected);
     }
 }
